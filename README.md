@@ -26,7 +26,9 @@
 <br>
 
 ## Dataset Description
-<img width="375" alt="image" src="https://user-images.githubusercontent.com/58943665/180736531-2781add0-7be6-4b41-8e19-0a9564918937.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/58943665/180736531-2781add0-7be6-4b41-8e19-0a9564918937.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/58943665/180739606-afcbc9b8-0a2f-40f0-a29b-ea5ceb9c27ac.png">
+
 <br>
 
 ## Data Methodology
