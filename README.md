@@ -6,7 +6,7 @@
 
 - The methodology document describes the overall steps that have been done in the analysis
 
-- Tableau Workbook is published to Tableau Public. You can access is from [here](https://public.tableau.com/app/profile/ameya.shukla1509/viz/AirbnbNewYorkCityAnalysis_16587366066510/InsightsonNeighborhoodGroupsandDifferenttypesofRoomforAirbnbfromPre-COVIDPeriod).
+- Tableau Workbook is published to Tableau Public [here](https://public.tableau.com/app/profile/ameya.shukla1509/viz/AirbnbNewYorkCityAnalysis_16587366066510/InsightsonNeighborhoodGroupsandDifferenttypesofRoomforAirbnbfromPre-COVIDPeriod).
 <br>
 
 ## Background
